@@ -34,5 +34,5 @@ Dal 2015 il fondatore di Tesla e SpaceX, Elon Musk, incoraggia lo sviluppo del q
 IEEE Student Branch di Brescia vi aspetta numerosi !
 
 *Crediti*
-Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
+<br>Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
 <br/>Crediti per la creazione della locandina a Marco Milanesi, studente di Ingegneria dell'Automazione presso Università degli Studi di Brescia.
