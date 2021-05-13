@@ -36,5 +36,5 @@ IEEE Student Branch di Brescia vi aspetta numerosi !
 L'incontro si terrà su Google Meet Giovedì 20 Maggio, alle ore 17:00, con uno spazio Q&A in coda all'incontro.
 
 *Crediti*
-Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
+<Ve/>Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
 <br/>Crediti per la creazione della locandina a Marco Milanesi, studente di Ingegneria dell'Automazione presso Università degli Studi di Brescia.
