@@ -3,8 +3,8 @@ title: Frenki goes to <s>Hollywood</s> the WWW
 description: >
   Welcome to my first website. Based on github pages.
 
-baseurl: "/frenkishqepa.com" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+url: "www.frenkishqepa.com" # the base hostname & protocol for your site
 
 author:
   fullname: Frenki Shqepa
