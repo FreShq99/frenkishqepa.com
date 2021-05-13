@@ -34,3 +34,6 @@ Dal 2015 il fondatore di Tesla e SpaceX, Elon Musk, incoraggia lo sviluppo del q
 IEEE Student Branch di Brescia vi aspetta numerosi !
 
 L'incontro si terrà su Google Meet Giovedì 20 Maggio, alle ore 17:00, con uno spazio Q&A in coda all'incontro.
+
+*Crediti*
+Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
