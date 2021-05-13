@@ -21,10 +21,10 @@ Siamo lieti di presentarvi i nostri speakers dell'EPFLoop Hyperloop Team:
 
 Dal 2015 il fondatore di Tesla e SpaceX, Elon Musk, incoraggia lo sviluppo del quinto tipo di trasporto - dopo auto, treni, navi e aerei: Hyperloop. 
 <br/>Hyperloop e' un sistema di capsule spinte in un tubo a vuoto e capaci di raggiungere una velocità di 1200 km/h. 
-<br/> SpaceX costruisce un test track lungo di un 1.2 km in grado di raggiungere pressioni molto basse, e dove poter testare nuovi concept di capsule Hyperloop. 
+<br/> SpaceX costruisce un test track lungo 1.2 km in grado di raggiungere pressioni molto basse, e dove poter testare nuovi concept di capsule Hyperloop. 
 <br/> Nel 2015 il test track viene messo a disposizione a team di studenti che progettano e costruiscono capsule e la SpaceX Hyperloop Pod Competition viene annunciata. 
 <br/> Lo scopo  e' di costruire capsule, che soddisfino i criteri di sicurezza e performance stabiliti dagli ingegneri di SpaceX e Tesla.
-<br/> La gara, tenutasi ogni anno, vede migliaia di squadra candidarsi per partecipare al concorso: solo tre squadre superano la selezione finale, ricevendo la possibilita' di lanciare la propria capsula all'interno del test track. 
+<br/> La gara, tenutasi ogni anno, vede migliaia di squadre candidarsi per partecipare al concorso: solo tre squadre superano la selezione finale, ricevendo la possibilita' di lanciare la propria capsula all'interno del test track. 
 <br/> Il team EPFLoop, formatosi nel settembre 2017 all'EPFL con l'intenzione di partecipare a questo concorso, e' riuscito a rientrare tra le tre squadre in finale, sia nell'edizione 2018 che nell'edizione 2019.
 <br/> EPFLoop raggruppa studenti di dottorato, master e bachelor, provenienti dai piu' svariati dipartimenti. L'ambiente é altamente innovativo e multidisciplinare, e permette agli studenti di interagire con professori ed aziende di alto livello.
 <br/> In questo seminario alcuni membri del team EPFLoop parleranno degli aspetti tecnici (design aerodinamico, meccanico e propulsione, sistemi di controllo e batterie) e di quelli meno tecnici (gioie e fatiche) di questo progetto. 
@@ -36,5 +36,5 @@ IEEE Student Branch di Brescia vi aspetta numerosi !
 L'incontro si terrà su Google Meet Giovedì 20 Maggio, alle ore 17:00, con uno spazio Q&A in coda all'incontro.
 
 *Crediti*
-<br/>Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
+Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
 <br/>Crediti per la creazione della locandina a Marco Milanesi, studente di Ingegneria dell'Automazione presso Università degli Studi di Brescia.
