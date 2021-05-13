@@ -10,14 +10,14 @@ IEEE Student Branch di Brescia vi presenta "Moving Fast and Breaking Records", u
 <br/>
 
 Siamo lieti di presentarvi i nostri speakers dell'EPFLoop Hyperloop Team:
-<br/>Lorenzo Benedetti, Former Team Lead
-<br/>Simone Rametti, Former Avionics Lead
-<br/>Nicolò Riva, Former Aerodynamic Lead
-<br/>Fedele Tagarelli, Former Battery and Energy Team Member
+- Lorenzo Benedetti, Former Team Lead
+- Simone Rametti, Former Avionics Lead
+- Nicolò Riva, Former Aerodynamic Lead
+- Fedele Tagarelli, Former Battery and Energy Team Member
 <br/>
 
 
-<img src="https://github.com/freshq99/freshq99.github.io/blob/master/assets/img/sitowebinair.jpg?raw=true" style="height: 500px; width:500px;"/>
+<img src="https://github.com/freshq99/freshq99.github.io/blob/master/assets/img/sitowebinair.jpg?raw=true" alt="Moving Fast and Breaking Records" class="center" style="height: 650px; width:650px;"/>
 
 Dal 2015 il fondatore di Tesla e SpaceX, Elon Musk, incoraggia lo sviluppo del quinto tipo di trasporto - dopo auto, treni, navi e aerei: Hyperloop. 
 <br/>Hyperloop e' un sistema di capsule spinte in un tubo a vuoto e capaci di raggiungere una velocità di 1200 km/h. 
