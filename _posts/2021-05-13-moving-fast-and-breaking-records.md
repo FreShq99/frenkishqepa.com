@@ -37,3 +37,4 @@ L'incontro si terrà su Google Meet Giovedì 20 Maggio, alle ore 17:00, con uno 
 
 *Crediti*
 Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
+Crediti per la creazione della locandina a Marco Milanesi, studente di Ingegneria dell'Automazione presso Università degli Studi di Brescia.
