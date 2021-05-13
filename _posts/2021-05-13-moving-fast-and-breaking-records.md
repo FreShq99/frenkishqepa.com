@@ -33,8 +33,6 @@ Dal 2015 il fondatore di Tesla e SpaceX, Elon Musk, incoraggia lo sviluppo del q
 <br/>Grazie anche a Marco Milanesi che si è occupato della realizzazione della locandina e che mi ha dato una grande mano nella pubblicizzazione dell'evento !
 IEEE Student Branch di Brescia vi aspetta numerosi !
 
-L'incontro si terrà su Google Meet Giovedì 20 Maggio, alle ore 17:00, con uno spazio Q&A in coda all'incontro.
-
 *Crediti*
-<Ve/>Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
+<br/>Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
 <br/>Crediti per la creazione della locandina a Marco Milanesi, studente di Ingegneria dell'Automazione presso Università degli Studi di Brescia.
