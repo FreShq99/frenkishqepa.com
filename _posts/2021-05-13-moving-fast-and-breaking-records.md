@@ -6,10 +6,10 @@ date:   2021-05-13 16:53:00 +0100
 categories: ["IEEE Student Branch of Brescia"]
 ---
 
-IEEE Student Branch di Brescia vi presenta "Moving Fast and Breaking Records", un webinair tenuto da membri del Team EPFLoop.
+IEEE Student Branch of Brescia presents "Moving Fast and Breaking Records," a webinair hosted by members of the EPFLoop Team.
 <br/>
 
-Siamo lieti di presentarvi i nostri speakers dell'EPFLoop Hyperloop Team:
+We are pleased to introduce our speakers from the EPFLoop Hyperloop Team:
 - Lorenzo Benedetti, Former Team Lead
 - Simone Rametti, Former Avionics Lead
 - Nicolò Riva, Former Aerodynamic Lead
@@ -19,20 +19,20 @@ Siamo lieti di presentarvi i nostri speakers dell'EPFLoop Hyperloop Team:
 
 <img src="https://github.com/freshq99/freshq99.github.io/blob/master/assets/img/sitowebinair.jpg?raw=true" alt="Moving Fast and Breaking Records" class="center" style="height: 650px; width:650px;"/>
 
-Dal 2015 il fondatore di Tesla e SpaceX, Elon Musk, incoraggia lo sviluppo del quinto tipo di trasporto - dopo auto, treni, navi e aerei: Hyperloop. 
-<br/>Hyperloop e' un sistema di capsule spinte in un tubo a vuoto e capaci di raggiungere una velocità di 1200 km/h. 
-<br/> SpaceX costruisce un test track lungo 1.2 km in grado di raggiungere pressioni molto basse, e dove poter testare nuovi concept di capsule Hyperloop. 
-<br/> Nel 2015 il test track viene messo a disposizione a team di studenti che progettano e costruiscono capsule e la SpaceX Hyperloop Pod Competition viene annunciata. 
-<br/> Lo scopo  e' di costruire capsule, che soddisfino i criteri di sicurezza e performance stabiliti dagli ingegneri di SpaceX e Tesla.
-<br/> La gara, tenutasi ogni anno, vede migliaia di squadre candidarsi per partecipare al concorso: solo tre squadre superano la selezione finale, ricevendo la possibilita' di lanciare la propria capsula all'interno del test track. 
-<br/> Il team EPFLoop, formatosi nel settembre 2017 all'EPFL con l'intenzione di partecipare a questo concorso, e' riuscito a rientrare tra le tre squadre in finale, sia nell'edizione 2018 che nell'edizione 2019.
-<br/> EPFLoop raggruppa studenti di dottorato, master e bachelor, provenienti dai piu' svariati dipartimenti. L'ambiente é altamente innovativo e multidisciplinare, e permette agli studenti di interagire con professori ed aziende di alto livello.
-<br/> In questo seminario alcuni membri del team EPFLoop parleranno degli aspetti tecnici (design aerodinamico, meccanico e propulsione, sistemi di controllo e batterie) e di quelli meno tecnici (gioie e fatiche) di questo progetto. 
+Since 2015, the founder of Tesla and SpaceX, Elon Musk, has been encouraging the development of the fifth type of transportation - after cars, trains, ships and planes: Hyperloop. 
+<br/>Hyperloop is a system of capsules pushed in a vacuum tube and capable of reaching speeds of 1200 km/h. 
+<br/> SpaceX has built a 1.2 km long test track capable of reaching very low pressures, and where new Hyperloop capsule concepts can be tested. 
+<br/> In 2015, the test track is made available to teams of students who design and build capsules, and the SpaceX Hyperloop Pod Competition is announced. 
+<br/> The goal is to build pods, which meet the safety and performance criteria set by SpaceX and Tesla engineers.
+<br/> The competition, held every year, sees thousands of teams apply to take part in the competition: only three teams pass the final selection, receiving the opportunity to launch their capsule on the test track. 
+<br/> The EPFLoop team, formed in September 2017 at EPFL with the intention of participating in this competition, managed to be among the three teams in the finals in both the 2018 and 2019 editions.
+<br/> EPFLoop brings together doctoral, master's and bachelor's students from a wide variety of departments. The environment is highly innovative and multidisciplinary, allowing students to interact with top professors and companies.
+<br/> In this seminar some members of the EPFLoop team will talk about the technical aspects (aerodynamic, mechanical and propulsion design, control systems and batteries) and the less technical ones (joys and labors) of this project. 
 
-<br/>Colgo l'occasione per ringraziare Nicolò Riva, PhD, per essersi reso disponibile e per avermi aiutato nell'organizzazione del seminario, ma anche per aver parlato dello Student Branch IEEE Brescia ai suoi colleghi!
-<br/>Grazie anche a Marco Milanesi che si è occupato della realizzazione della locandina e che mi ha dato una grande mano nella pubblicizzazione dell'evento !
-IEEE Student Branch di Brescia vi aspetta numerosi !
+<br/>I take this opportunity to thank Nicolò Riva, PhD, for being available and helping me in the organization of the seminar, but also for talking about the IEEE Brescia Student Branch to his colleagues!
+<br/>Thanks also to Marco Milanesi who took care of the poster and who gave me a great help in publicizing the event!
+IEEE Student Branch of Brescia is waiting for you !
 
-*Crediti*
-<br>Crediti per la descrizione del webinair a Nicolò Riva, PhD, attualmente PostDoc presso Massachusetts Institute of Technology.
-<br/>Crediti per la creazione della locandina a Marco Milanesi, studente di Ingegneria dell'Automazione presso Università degli Studi di Brescia.
+*Credits*
+<br/>Credits for the description of the webinair to Nicolò Riva, PhD, currently PostDoc at Massachusetts Institute of Technology.
+<br/>Credits for the creation of the poster to Marco Milanesi, student of Automation Engineering at Università degli Studi di Brescia.
