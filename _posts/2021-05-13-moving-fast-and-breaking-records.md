@@ -34,5 +34,5 @@ Since 2015, the founder of Tesla and SpaceX, Elon Musk, has been encouraging the
 IEEE Student Branch of Brescia is waiting for you !
 
 *Credits*
-<br/>Credits for the description of the webinair to Nicolò Riva, PhD, currently PostDoc at Massachusetts Institute of Technology.
-<br/>Credits for the creation of the poster to Marco Milanesi, student of Automation Engineering at Università degli Studi di Brescia.
+<br/>Credits for the description of the webinair to Nicolò Riva, PhD, currently PostDoc at Massachusetts Institute of Technolog. Check his ![Linkedin Profile](https://www.linkedin.com/in/nicorivaprina/)
+<br/>Credits for the creation of the poster to Marco Milanesi, student of Automation Engineering at Università degli Studi di Brescia. Check his ![Linkedin Profile](https://www.linkedin.com/in/milanesimarco/)
