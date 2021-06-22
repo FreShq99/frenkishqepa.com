@@ -1,9 +1,8 @@
 # Site settings
 title: Frenki goes to <s>Hollywood</s> the WWW
 description: >
-  Welcome to my first website. Based on github pages.
-  <sup><sub>I bought the domain, but I have problems with the dns, so using "frenkishqepa.com" is legit :)</sub></sup>
-
+  Welcome to my first website. Based on github pages. <sup><sub>I bought the domain, but I have problems with the dns, so using "frenkishqepa.com" is legit :)</sub></sup>  
+  
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "www.frenkishqepa.com" # the base hostname & protocol for your site
 
