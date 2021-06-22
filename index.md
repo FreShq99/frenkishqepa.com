@@ -2,7 +2,6 @@
 layout: page
 title: 
 subtitle: Welcome to my website.
-	  prova
 sitemap:
   priority: 0.9
 ---
