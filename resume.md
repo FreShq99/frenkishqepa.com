@@ -42,6 +42,15 @@ You can see the certificate, from Udemy, [here](https://www.udemy.com/certificat
 You can see the certificate, from Udemy, [here](https://www.udemy.com/certificate/UC-848c445e-0a92-4482-b444-515d120f8205/).
 
 
+### ACHIEVEMENTS
+- 1st place in the Wearable Device Challenge, during the 2021 IEEE INTERNATIONAL WORKSHOP ON METROLOGY FOR INDUSTRY 4.0 & IoT <span style="float: right; ">June, 2021</span>  
+
+- Deep Learning: Recurrent Neural Networks in Python <span style="float: right; ">2021</span>  
+You can see the certificate, from Udemy, [here](https://www.udemy.com/certificate/UC-49f4ac0a-739d-4973-b242-5ef12b251a89/).
+
+- Deep Learning and Neural Networks: The Complete Course <span style="float: right; ">2020</span>  
+You can see the certificate, from Udemy, [here](https://www.udemy.com/certificate/UC-848c445e-0a92-4482-b444-515d120f8205/).
+
 
 ### INTERESTS
 
