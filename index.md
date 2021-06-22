@@ -1,7 +1,7 @@
 ---
 layout: page
-title: frenkishqepa.com
-subtitle: Welcome to my website
+title: Welcome to my website
+subtitle:
 sitemap:
   priority: 0.9
 ---
