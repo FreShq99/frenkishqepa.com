@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: Welcome to my website.
+subtitle: Welcome to my website 
 sitemap:
   priority: 0.9
 ---
