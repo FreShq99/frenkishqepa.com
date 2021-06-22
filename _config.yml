@@ -1,7 +1,7 @@
 # Site settings
 title: Frenki goes to <s>Hollywood</s> the WWW
 description: >
-  I bought the domain, but I have temporary issues with the dns configuration, so using "frenkishqepa.com" is legit :)
+  
   
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "www.frenkishqepa.com" # the base hostname & protocol for your site
