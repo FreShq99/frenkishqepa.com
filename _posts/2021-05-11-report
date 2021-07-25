@@ -1,0 +1,9 @@
+---
+layout: page
+title:  "MetroBS report"
+subtitle: ""
+date:   2021-05-11 11:12:21 +0100
+categories: ["MetroBS"]
+---
+
+This  report  describes  the  path  our  group  followed  to  develop  a  wearable  fall  detectiondevice based on an artificial intelligence algorithm.  We start with the description of theproblem, then move on to the preprocessing and feature extraction operations, followed bythe classifier and the results obtained.  More attention is given to the data processing steps
