@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "NASA Space Apps Challenge"
-subtitle: "A reefing lien cutter"
+subtitle: "A reefing line cutter"
 date:   2021-11-16 16:31:00 +0100
 categories: ["NASA Space Apps Challenge Brescia"]
 ---
