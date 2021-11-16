@@ -31,10 +31,10 @@ Let's start by saying that we are all college students. We are three aspiring el
 </br>
 
 <h2 align="center"> Our team - STB011 </h2>
-Gardinazzi Carlo, Electronics and Telecommunications Engineering, Università degli Studi di Brescia.
-D'Angelo Davide, Electronics and Telecommunications Engineering, Università degli Studi di Brescia. Visit his [LinkedIn profile](https://www.linkedin.com/in/d-dangelo/)
-Fontana Stefano, Computer Science, Università degli Studi di Brescia. Visit his [LinkedIn profile](https://www.linkedin.com/in/fontana-stefano/)
-Shqepa Frenki,  Electronics and Telecommunications Engineering, Università degli Studi di Brescia. Visit my [LinkedIn profile](https://www.linkedin.com/in/frenkishqepa/)
+Gardinazzi Carlo, Electronics and Telecommunications Engineering, Università degli Studi di Brescia. </br>
+D'Angelo Davide, Electronics and Telecommunications Engineering, Università degli Studi di Brescia. Visit his [LinkedIn profile](https://www.linkedin.com/in/d-dangelo/)</br>
+Fontana Stefano, Computer Science, Università degli Studi di Brescia. Visit his [LinkedIn profile](https://www.linkedin.com/in/fontana-stefano/)</br>
+Shqepa Frenki,  Electronics and Telecommunications Engineering, Università degli Studi di Brescia. Visit my [LinkedIn profile](https://www.linkedin.com/in/frenkishqepa/)</br>
 </br>
 
 
