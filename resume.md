@@ -19,7 +19,7 @@ subtitle: Frenki Shqepa
 
 ### EXPERIENCE
 
-- Executive Secretary - **IEEE Student Branch of Brescia** <span style="float: right; ">2020-Present</span>  
+- Executive Secretary - **IEEE Student Branch of Brescia** <span style="float: right; ">October 2020 - October 2021</span>  
 Head of Membership Committee
 <br/>Visit the IEEE Student Branch of Brescia [website](https://ieeesb.unibs.it) !
 
@@ -47,6 +47,8 @@ You can see the certificate, from Udemy, [here](https://www.udemy.com/certificat
 - 1st place in the Wearable Device Challenge, during the 2021 IEEE INTERNATIONAL WORKSHOP ON METROLOGY FOR INDUSTRY 4.0 & IoT <span style="float: right; ">June, 2021</span>  
 [Here](https://drive.google.com/file/d/1QnfsOkYyCZfwIgRZQGb566gBPrOZJ34J/view) is the certificate of the first place.
 
+- 1st place in the Nasa Space Apps Challenge, local phase in Brescia. 
+[Here](https://drive.google.com/drive/folders/1EL8coh3n1aVOn3My_ZGnoqM9zsdFn46T?usp=sharing) you can see our project.
 
 ### INTERESTS
 
