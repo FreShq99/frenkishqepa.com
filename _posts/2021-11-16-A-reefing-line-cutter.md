@@ -45,5 +45,8 @@ Shqepa Frenki,  Electronics and Telecommunications Engineering, Università degl
 
 </br>
 
+<h2 align="center"> Find out more ! </h2>
+You can find out more about our project [here](https://drive.google.com/drive/u/2/folders/1EL8coh3n1aVOn3My_ZGnoqM9zsdFn46T)
+
 
 
