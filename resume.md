@@ -12,9 +12,12 @@ subtitle: Frenki Shqepa
 
 - Università degli Studi di Brescia <span style="float: right; ">2022-today</span>  
 **Masters's in Electronics Engineering, Microelectronics curriculum**  
+Link to the study plan [here](https://unibs.coursecatalogue.cineca.it/corsi/2018/82/insegnamenti/3?schemaid=1709)
 
 - Università degli Studi di Brescia <span style="float: right; ">2018-2022</span>  
-**Bachelor's in Electronics and Telecommunications Engineering (Final degree mark: 95/110)**  
+**Bachelor's in Electronics and Telecommunications Engineering 
+(Final degree mark: 95/110)**  
+Link to the study plan [here](https://unibs.coursecatalogue.cineca.it/corsi/2022/90/insegnamenti/9999?schemaid=2230)
 
 - Liceo Scientifico Gaspare Aselli, Cremona <span style="float: right; ">2013-2018</span>  
 **Liceo Tradizionale**   
