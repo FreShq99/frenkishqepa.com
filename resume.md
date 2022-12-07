@@ -10,8 +10,11 @@ subtitle: Frenki Shqepa
 
 ### EDUCATION
 
-- Università degli Studi di Brescia <span style="float: right; ">2018-Present</span>  
-**Electronics and Telecommunications Engineering**  
+- Università degli Studi di Brescia <span style="float: right; ">2022-today</span>  
+**Masters's in Electronics Engineering, Microelectronics curriculum**  
+
+- Università degli Studi di Brescia <span style="float: right; ">2018-2022</span>  
+**Bachelor's in Electronics and Telecommunications Engineering**  
 
 - Liceo Scientifico Gaspare Aselli, Cremona <span style="float: right; ">2013-2018</span>  
 **Liceo Tradizionale**   
@@ -23,14 +26,10 @@ subtitle: Frenki Shqepa
 Head of Membership Committee
 <br/>Visit the IEEE Student Branch of Brescia [website](https://ieeesb.unibs.it) !
 
-- Delegate - **Italian Diplomatic Academy** <span style="float: right; ">2017-2018</span>  
-I was one of Nauru's two delegates in the SPECPOL (United Nations) committee, in the NHSMUN framework.
-My task was the drafting of two position papers regarding "Nauru’s position on Mantaining Peaceful Dialogue and Cooperation with Colombian Rebel Groups" and "Nauru's position on Maritime Contention in the South China Sea".
-The topics were discussed among delegates from other nations, in [New](https://www.youtube.com/watch?v=dQw4w9WgXcQ) York. The final solution was proposed at United Nations Headquarters, in Manhattan.
 
 ### VOLUNTEERING
 
-- Student Member - **IEEE, IEEE Student Branch Bresica** <span style="float: right; ">2019-Present</span>  
+- Student Member - **IEEE, IEEE Student Branch Brescia** <span style="float: right; ">2019-Present</span>  
 
 
 ### CERTIFICATES
@@ -49,6 +48,8 @@ You can see the certificate, from Udemy, [here](https://www.udemy.com/certificat
 
 - 1st place in the Nasa Space Apps Challenge, local phase in Brescia. 
 [Here](https://drive.google.com/drive/folders/1EL8coh3n1aVOn3My_ZGnoqM9zsdFn46T?usp=sharing) you can see our project.
+
+- 3rd place in the World Cansat Rocketry Championship <span style="float: right; ">September, 2022</span>  
 
 ### INTERESTS
 
