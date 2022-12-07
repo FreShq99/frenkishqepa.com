@@ -14,7 +14,7 @@ subtitle: Frenki Shqepa
 **Masters's in Electronics Engineering, Microelectronics curriculum**  
 
 - Università degli Studi di Brescia <span style="float: right; ">2018-2022</span>  
-**Bachelor's in Electronics and Telecommunications Engineering**  
+**Bachelor's in Electronics and Telecommunications Engineering (Final degree mark: 95/110)**  
 
 - Liceo Scientifico Gaspare Aselli, Cremona <span style="float: right; ">2013-2018</span>  
 **Liceo Tradizionale**   
