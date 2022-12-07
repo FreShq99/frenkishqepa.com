@@ -9,6 +9,12 @@ sitemap:
 <img src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img" width="45%">
 
 
+<p align="center" width="100%">
+    <img width="80%" src="/assets/img/frenk.jpeg"> 
+    <p align="center">Figure 1: Signals acquired from Accelerometer, X-axis, for two backward falls.<p align="center">
+</p>
+
+
 <div id="describe-text">
 	<p>Hi, my name is Frenki Shqepa. I'm currently pursuing a Master's degree in Electronics Engineering, with a particular interest on microelectronics, hoping to further study the working of electronic devices. In the future I'd like to use this knowledge in the health & wealth sector.</p>
 
