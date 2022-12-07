@@ -49,7 +49,8 @@ You can see the certificate, from Udemy, [here](https://www.udemy.com/certificat
 - 1st place in the Nasa Space Apps Challenge, local phase in Brescia. 
 [Here](https://drive.google.com/drive/folders/1EL8coh3n1aVOn3My_ZGnoqM9zsdFn46T?usp=sharing) you can see our project.
 
-- 3rd place in the World Cansat Rocketry Championship <span style="float: right; ">September, 2022</span>  
+- 3rd place in the World Cansat Rocketry Championship <span style="float: right; ">September, 2022</span>.
+[Click this link](https://www.youtube.com/watch?v=HzFJGEE6IlI) to see the YouTube video of the launch day !
 
 ### INTERESTS
 
@@ -57,3 +58,6 @@ You can see the certificate, from Udemy, [here](https://www.udemy.com/certificat
 - During the last year of my Bachelor's degree, I started working with biological signal processing. 
 <br/>I am currently learning to use this knowledge for implementation on embedded sytems.
 - I like physics and literature on atrophysics. Still unsure if I want to keep this interest as an hobby though...
+
+### OTHER
+Click [here](https://instagram.com/mosfrenk?igshid=YmMyMTA2M2Y=) to see MOSFrenk, my instagram page where I'll post my spare time projects !
