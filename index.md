@@ -10,7 +10,7 @@ sitemap:
 
 
 <p align="center" width="10%">
-    <img width="80%" src="/assets/img/frenk.jpeg"> 
+    <img width="20%" src="/assets/img/frenk.jpeg"> 
     <p align="center">Figure 1: Signals acquired from Accelerometer, X-axis, for two backward falls.<p align="center">
 </p>
 
