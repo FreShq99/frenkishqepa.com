@@ -11,7 +11,7 @@ sitemap:
 
 <p align="center" width="50%">
     <img width="60%" src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img"> 
-    <p align="center">Here I am with a curious cat, outside of the Tesla Museum in Belgrade :)<p align="center">
+    <p align="center">Here I am with a curious cat, outside of the Tesla Museum in Belgrade.<p align="center">
 </p>
 
 
