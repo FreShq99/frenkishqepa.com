@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img" width="45%">
 
 
-<p align="center" width="100%">
+<p align="center" width="10%">
     <img width="80%" src="/assets/img/frenk.jpeg"> 
     <p align="center">Figure 1: Signals acquired from Accelerometer, X-axis, for two backward falls.<p align="center">
 </p>
