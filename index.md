@@ -11,7 +11,7 @@ sitemap:
 
 <p align="center" width="10%">
     <img width="20%" src="/assets/img/frenk.jpeg"> 
-    <p align="center">Figure 1: Signals acquired from Accelerometer, X-axis, for two backward falls.<p align="center">
+    <p align="center">Here I am with a curious cat, outside of the Tesla Museum in Belgrade (September 2022).<p align="center">
 </p>
 
 
