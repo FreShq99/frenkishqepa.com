@@ -9,7 +9,7 @@ sitemap:
 [comment]: <img src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img" width="45%">
 
 
-<p align="center" width="10%">
+<p align="center" width="50%">
     <img width="60%" src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img"> 
     <p align="center">Here I am with a curious cat, outside of the Tesla Museum in Belgrade :)<p align="center">
 </p>
