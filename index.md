@@ -10,8 +10,8 @@ sitemap:
 
 
 <p align="center" width="10%">
-    <img width="20%" src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img> 
-    <p align="center">Here I am with a curious cat, outside of the Tesla Museum in Belgrade..<p align="center">
+    <img width="20%" src="{{ '/assets/img/frenk.jpeg' | prepend: site.baseurl }}" id="about-img"> 
+    <p align="center">Here I am with a curious cat, outside of the Tesla Museum in Belgrade!<p align="center">
 </p>
 
 
