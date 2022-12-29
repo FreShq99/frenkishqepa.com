@@ -20,6 +20,6 @@ subtitle: Here you'll find photos of things I put under my microscope. Hope you 
 </p>
 
 <div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="MicroscopeGallery/purple.jpeg" alt="">
+  <img width="50%" src="MicroscopeGallery/purple.jpeg" alt="">
   <p style="margin: 0;">Prova</p>
 </div>
