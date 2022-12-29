@@ -37,7 +37,7 @@ In the following two photos, is represented the collector of the npn 2N2222A tra
 <br>
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
-  <img width="50%" src="MicroscopeGallery/BigBJt.jpeg" alt="">
+  <img width="50%" src="MicroscopeGallery/BigBJT.jpeg" alt="">
   <p style="margin: 0;"> With a 100x magnification I saw this square, different from the surrounding. Most likely it is not the silicon chip, but it could be a metallization. If anyone knows what it is, feel free to contact me on my mail shqepa23@gmail.com .</p>
 </div>
 
