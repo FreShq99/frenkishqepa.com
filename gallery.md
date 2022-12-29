@@ -35,7 +35,7 @@ In the next three photos you can see how the combination of just three colors -R
 In the following two photos, is represented the collector of the npn 2N2222A transistor. 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
   <img width="50%" src="MicroscopeGallery/PointBJT.jpeg" alt="">
-  <p style="margin: 0;"> The collector inside of the plastic of the component, compared to the point of a pencil. 100x</p>
+  <p style="margin: 0;"> The collector inside of the plastic of the component, compared to the point of a pencil. </p>
 </div>
 
 <br>
