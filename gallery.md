@@ -15,6 +15,6 @@ subtitle: Here you'll find photos of things I put under my microscope. Hope you 
 </p>
 
 <p align="left" width="100%">
-    <img width="70%" src="MicroscopeGallery/yellow.jpeg"> 
+    <img width="70%" src="MicroscopeGallery/purple.jpeg"> 
     <p align="left">Color pink on the IPS LCD Display of the smartphone "Xiaomi Redmi 9".<p align="left">
 </p>
