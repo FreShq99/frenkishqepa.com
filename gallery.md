@@ -21,6 +21,5 @@ subtitle: Here you'll find photos of things I put under my microscope. Hope you 
 
 <div style="display: flex; justify-content: flex-end; align-items: center;">
   <img width="50%" src="MicroscopeGallery/purple.jpeg" alt="">
-  <p style="margin: 0;"> Prova
-    PRov</p>
+  <p style="margin: 0;"> Prova<br> PRov</p>
 </div>
