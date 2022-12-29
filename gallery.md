@@ -3,7 +3,8 @@ layout: page
 title: Frenki by microscope
 subtitle: Here you'll find photos of things I put under my microscope. 
 ---
-### Disclaimer  
+
+## Disclaimer  
 I use an optic microscope with available magnitudes of 100x, 600x, 1200x. I take photos with my phone, since I do not have a digital output for saving the images. I will not edit the photos to improve their quality, in order to keep them true to reality.<br>
 At the end of the captions of every image, you will find the magnification. Enjoy this small world :)
 
@@ -25,7 +26,7 @@ In the next three photos you can see how the combination of just three colors -R
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
   <img width="50%" src="MicroscopeGallery/blu.jpeg" alt="">
-  <p style="margin: 0;"> Color light blue. 100x</p>
+  <p style="margin: 0;">  Color light blue. 100x</p>
 </div>
 
 <br>
