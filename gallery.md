@@ -2,7 +2,6 @@
 
 <head>
   <link rel="stylesheet" type="text/css" href="https://github.com/freshq99/frenkishqepa.com/blob/master/assets/css/main.css">
-  <script src="path/to/javascript.js"></script>
 </head>
 
 <div class="row">
