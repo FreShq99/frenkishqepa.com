@@ -226,6 +226,24 @@
 
   }
 
+  /* Grid layout */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+    }
+  }
+
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
   .glitch {
     position: relative;
