@@ -1,19 +1,34 @@
+layout: page
+ title: Frenki by microscope
+ subtitle: Here you'll find photos of things I put under my microscope. 
+ ---
 
-<head>
-  <link rel="stylesheet" type="text/css" href="https://github.com/freshq99/frenkishqepa.com/blob/master/assets/css/main.css">
-</head>
+ ## Disclaimer  
+ I use an optic microscope with available magnitudes of 100x, 600x, 1200x. I take photos with my phone, since I do not have a digital output for saving the images. I will not edit the photos to improve their quality, in order to keep them true to reality.<br>
+ At the end of the captions of every image, you will find the magnification. Enjoy this small world :)
+
+---
+layout: default
+title: Microscope Gallery
+---
+
+<div class="page-title">
+  <h1 class="page-title__text">{{ page.title }}</h1>
+</div>
 
 <div class="row">
   <div class="column">
-    <img src="MicroscopeGallery/purple.jpeg" style="width:100%">
+    <img src="https://github.com/freshq99/frenkishqepa.com/blob/master/MicroscopeGallery/blu.jpeg" style="width:100%">
     <p>Caption for image1</p>
   </div>
   <div class="column">
-    <img src="MicroscopeGallery/blu.jpeg" style="width:100%">
+    <img src="https://github.com/freshq99/frenkishqepa.com/blob/master/MicroscopeGallery/purple.jpeg" style="width:100%">
     <p>Caption for image2</p>
   </div>
   <div class="column">
-    <img src="MicroscopeGallery/yellow.jpeg" style="width:100%">
+    <img src="https://github.com/freshq99/frenkishqepa.com/blob/master/MicroscopeGallery/yellow.jpeg" style="width:100%">
     <p>Caption for image3</p>
   </div>
 </div>
+
+{% include page/about.html %}
