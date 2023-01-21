@@ -228,12 +228,13 @@
 
   /* Grid layout 
   .row {
-  display: flex; /* set the container to display as a flex container */
-}
+  display: flex; 
+}*/
 
+/*
 .column img {
-  max-height: 250px; /* set the maximum height of the images to the height of the smallest image */
-  object-fit: contain; /* maintain the aspect ratio of the images */
+  max-height: 250px; 
+  object-fit: contain;
 }*/
 
 .row {
