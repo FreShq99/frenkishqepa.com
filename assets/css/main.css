@@ -226,11 +226,9 @@
 
   }
 
-  Grid layout 
-  .row {
+.row {
   display: flex; 
 }
-
 
 .column img {
   max-height: 250px; 
