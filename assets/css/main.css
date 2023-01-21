@@ -228,14 +228,15 @@
 
   /* Grid layout */
   .row {
-  display: flex;
-}
+     display: flex;
+     flex-wrap: wrap;
+   }
 
-.column img {
-  object-fit: cover;
-  width: 100%;
-  height: auto;
-}
+   .column {
+     flex: 1;
+     padding: 10px;
+     text-align: center;
+   }
 
 
 
