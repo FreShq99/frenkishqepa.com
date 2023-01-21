@@ -242,8 +242,10 @@
   align-items: stretch;
 }
 
-.column {
+.column img {
   flex: 1;
+  max-height: 250px; /* set the maximum height of the images to the height of the smallest image */
+  object-fit: contain; /* maintain the aspect ratio of the images */
   display: flex;
   align-items: center;
   justify-content: center;
