@@ -226,7 +226,7 @@
 
   }
 
-  /* Grid layout */
+  /* Grid layout 
   .row {
   display: flex; /* set the container to display as a flex container */
 }
@@ -234,6 +234,19 @@
 .column img {
   max-height: 250px; /* set the maximum height of the images to the height of the smallest image */
   object-fit: contain; /* maintain the aspect ratio of the images */
+}*/
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.column {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
