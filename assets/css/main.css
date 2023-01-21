@@ -231,20 +231,12 @@
   display: flex;
 }
 
-.column {
-    flex: 1;
-    overflow: hidden;
-    position: relative;
+.column img {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
 }
 
-.column img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%;
-    height: auto;
-}
 
 
   @media only screen and (max-width: 600px) {
