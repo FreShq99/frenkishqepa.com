@@ -234,13 +234,13 @@
 .column img {
   max-height: 250px; /* set the maximum height of the images to the height of the smallest image */
   object-fit: contain; /* maintain the aspect ratio of the images */
-}
+}*/
 
 .row {
   display: flex;
   flex-wrap: wrap;
   align-items: stretch;
-}*/
+}
 
 .column img {
   flex: 1;
