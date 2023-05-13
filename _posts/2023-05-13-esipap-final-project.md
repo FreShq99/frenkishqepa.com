@@ -5,6 +5,7 @@ date: 2023-05-13 12:00:00 +0000
 categories: ESIPAP 2023 - Final Project Proposal
 ---
 
+<h2 align="center"> Abstract </h2>
 Proton therapy allows to decrease the risk of side effects during treatment to 12%, compared to 
 conventional radiotherapy. [1]   
 In this therapy most of the energy is deposited in a defined region where the tumor is located (known as 
@@ -19,6 +20,7 @@ ghost tracks. Additionally, fast electronics and data acquisition technology mus
 data accurately.  
 Studying materials and configurations for the pixels to monitor the beam, minimizing the side effects and 
 maintaining the proton therapy treatment. 
+
  
  
 
