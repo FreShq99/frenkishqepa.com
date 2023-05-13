@@ -10,7 +10,7 @@ sitemap:
 
 
 <p align="center">
-    <img width="60%" src="{{ '/assets/img/frenk.jpg' | prepend: site.baseurl }}" id="about-img"> 
+    <img width="85%" src="{{ '/assets/img/frenk.jpg' | prepend: site.baseurl }}" id="about-img"> 
     <p align="center"> <sup>Here I am in front of Lake Geneva, in February 2023.</sup> <p align="center">
 </p>
 
