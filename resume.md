@@ -10,8 +10,10 @@ subtitle: Frenki Shqepa
 
 ### EDUCATION
 
--Esi Archamps
-ESIPAP 2023 - European School of Instrumentation in Particle and Astroparticle Physics: Advanced Lectures and Applications <span style="float: right; ">February 2023-March 2023</span>  
+- Esi Archamps, Archamps, Rhône-Alpes <span style="float: right; ">February 2023-March 2023</span>  
+**European School of Instrumentation in Particle and Astroparticle Physics (ESIPAP 2023): Advanced Lectures and Applications**
+Link to the school [here](https://www.esi-archamps.eu/esipap-courses/#1636993625318-0fdb367f-3f5d)
+
 
 - Università degli Studi di Brescia <span style="float: right; ">2022-today</span>  
 **Masters's in Electronics Engineering, Microelectronics curriculum**  
