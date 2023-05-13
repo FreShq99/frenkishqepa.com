@@ -20,7 +20,7 @@ data accurately.
 Studying materials and configurations for the pixels to monitor the beam, minimizing the side effects and 
 maintaining the proton therapy treatment. 
 
-<iframe src="{{site.baseurl}}/assets/EsipapPresentation.pdf" frameborder="0" width="100%" height="400"></iframe>
+<iframe src="{{site.baseurl}}/assets/EsipapPresentation.pdf" frameborder="0" width="100%" height="800"></iframe>
 
 <h2 align="center"> Sitography </h2>
 [1] Mohan, R., & Grosshans, D. (2017, January 15). Proton therapy - present and future. Advanced 
