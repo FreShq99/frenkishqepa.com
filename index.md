@@ -8,7 +8,7 @@ sitemap:
 
 <p align="center">
     <img width="100%" src="{{ '/assets/img/frenk.jpg' | prepend: site.baseurl }}" id="about-img"> 
-    <p align="center"> <sup>Here I am in front of Lake Geneva, in February 2023.</sup> <p align="center">
+    <p align="center"> <sup>Picture of me at the "Ad Maiora" ceremony, for the graduates of my university.</sup> <p align="center">
 </p>
 
 <div id="describe-text">
