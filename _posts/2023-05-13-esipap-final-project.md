@@ -8,7 +8,7 @@ categories: ["ESIPAP 2023 - Final Project Proposal"]
 
 <h2 align="center"> Abstract </h2>
 Proton therapy allows to decrease the risk of side effects during treatment to 12%, compared to 
-conventional radiotherapy. [1]   
+conventional radiotherapy.[1]   
 In this therapy most of the energy is deposited in a defined region where the tumor is located (known as 
 the Bragg peak).With multiple Bragg peaks of protons, it's possible to control the deposited dose through all the volume 
 of the tumor. However, a small angle difference at the beam source increases the probability to hit the healthy tissues 
